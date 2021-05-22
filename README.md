@@ -21,25 +21,26 @@ Private Tool
 I'm are not responsable for what u do with this tool.
 
 Installation:dont copy the slashes
-sudo apt update//
 
-sudo apt install perl//
+sudo apt update
 
-sudo apt install python3//
+sudo apt install perl
 
-sudo apt install python3-pip//
+sudo apt install python3
 
-sudo apt install python-minimal//
+sudo apt install python3-pip
 
-pip2 install -r requirements.txt//
+sudo apt install python-minimal
 
-pip3 install -r requirements.txt//
+pip2 install -r requirements.txt
 
-sudo apt install nodejs//
+pip3 install -r requirements.txt
 
-sudo apt install npm//
+sudo apt install nodejs
 
-npm install//
+sudo apt install npm
+
+npm install
 
 To run after installation:
 python3 Poster.py
