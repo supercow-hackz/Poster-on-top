@@ -20,17 +20,26 @@ Private Tool
 
 I'm are not responsable for what u do with this tool.
 
-Installation:
-sudo apt update
-sudo apt install perl
-sudo apt install python3
-sudo apt install python3-pip
-sudo apt install python-minimal
-pip2 install -r requirements.txt
-pip3 install -r requirements.txt
-sudo apt install nodejs
-sudo apt install npm
-npm install
+Installation:dont copy the slashes
+sudo apt update//
+
+sudo apt install perl//
+
+sudo apt install python3//
+
+sudo apt install python3-pip//
+
+sudo apt install python-minimal//
+
+pip2 install -r requirements.txt//
+
+pip3 install -r requirements.txt//
+
+sudo apt install nodejs//
+
+sudo apt install npm//
+
+npm install//
 
 To run after installation:
 python3 Poster.py
